@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    text-align: center;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.flex-box {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 10px;
+    background: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+    border-top: 5px solid #d8cefe;
+}
+
+
+img {
+    width: 150px;
+    /* border-radius: 50%; */
+}
